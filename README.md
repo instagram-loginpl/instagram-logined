@@ -1,1 +1,1 @@
-# ig-logins
+# instagram-login
